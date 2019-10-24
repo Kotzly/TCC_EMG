@@ -1,3 +1,5 @@
+# Opening Jupyter notebook
+
 To start a jupyter notebook server run:
 
 `jupyter notebook`
