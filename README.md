@@ -17,7 +17,7 @@ Now run the scripts at [FeatureExtraction notebook](./notebooks/dataset/FeatureE
 
 The [experiments](./notebooks/experiments) folder contains the experiments done that were reported.
 
-# TODO
+## TODO
 
 . Remove code from experiments, notebooks (use [algorithms.py](algorithms.py))
 . Improve documentation of codes
