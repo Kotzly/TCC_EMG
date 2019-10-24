@@ -17,7 +17,13 @@ Now run the scripts at [FeatureExtraction notebook](./notebooks/dataset/FeatureE
 
 The [experiments](./notebooks/experiments) folder contains the experiments done that were reported.
 
+# Utils
+
+* [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Keras documentation](http://keras.io)
+
+
 ## TODO
 
-. Remove code from experiments, notebooks (use [algorithms.py](algorithms.py))
-. Improve documentation of codes
+* Remove code from experiments, notebooks (use [algorithms.py](algorithms.py)).
+* Improve documentation of codes.
